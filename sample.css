@@ -5,3 +5,6 @@
 .sample1{
     color: red;
 }
+p{
+ text-decoration: line-through;
+}
